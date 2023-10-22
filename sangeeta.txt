@@ -1,1 +1,6 @@
 this is the first commit
+#git init
+#git add
+#git commit -m
+#git status
+#git restore
